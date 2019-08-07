@@ -10,6 +10,8 @@ Boston College, Chestnut Hill, MA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelors of Arts in Political Science (with Honors), _magna cum laude_<br>
 <br>
 Graduate Coursework Completed or in Progress:
+- Applied Machine Learning
+- Experiments and Causality
 - Python Fundamentals for Data Science
 - Research Design and Applications for Data and Analysis
 - Statistics for Data Science
