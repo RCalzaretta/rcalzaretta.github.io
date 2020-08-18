@@ -3,7 +3,7 @@ rcalzaretta@ischool.berkeley.edu <br>
 
 ## Education
 Univeristy of California, Berkeley, CA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Masters in Information and Data Science (expected Spring 2020)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Masters in Information and Data Science<br>
 
 Boston College, Chestnut Hill, MA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelors of Arts in Economics, _magna cum laude_<br>
