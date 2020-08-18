@@ -25,3 +25,14 @@ Compass Lexecon<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Economist_, 2016 – 2020<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Senior Analyst_, 2014 – 2016<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Analyst_, 2012 – 2014<br>
+
+## Techincal Skills
+Programming Languages<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Proficient in Python (Pandas, PySpark, NumPy, scikit-learn, TensorFLow), SQL<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Experience in VBA<br>
+<br>Statistical Packages<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Proficient in R, SAS, Stata<br>
+<br>Data Management Platforms<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Proficient in Databricks (Spark), GCP<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Experience in BigQuery, Kafka, MySQL, MS SQL Server, pgAdmin, PostgreSQL<br>
+
