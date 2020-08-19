@@ -1,1 +1,16 @@
+title: Project Portfolio
+author:
+    name: Robert "Bobby" Calzaretta, Jr.
+    email: rcalzaretta@berkeley.edu
+description: > 
+    This page contains selected works of Robert "Bobby" Calzaretta
+    highlighting experiences in data science.
+
+show_excerpts: false
+
+    social_links:
+        linkedin: https://www.linkedin.com/in/robert-calzaretta-jr
+        github:  https://github.com/RCalzaretta/
+
+
 theme: jekyll-theme-cayman
