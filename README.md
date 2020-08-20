@@ -19,7 +19,7 @@ Boston College, Chestnut Hill, MA<br>
 ## Publications
 “Competitive Effects of International Airline Cooperation,” with Yair Eilat and Mark Israel, Journal of Competition Law & Economics, Volume 13 (3), pp. 501-548, September 2017.
 
-## Professional Experience
+## Professional Career
 Compass Lexecon<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Senior Economist_, 2020 – Present<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Economist_, 2016 – 2020<br>
@@ -31,7 +31,7 @@ Broader Bolder Approach to Education<br>
 
 ## Techincal Skills
 _Programming Languages_<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Proficient in Python (Pandas, PySpark, NumPy, scikit-learn, TensorFLow), SQL<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Proficient in Python (Pandas, PySpark, NumPy, scikit-learn, TensorFLow, Librosa), SQL<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Experience in VBA<br>
 <br>_Statistical Packages_<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Proficient in R, SAS, Stata<br>
