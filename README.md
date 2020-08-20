@@ -1,5 +1,5 @@
 # Robert "Bobby" Calzaretta, Jr.
-__&nbsp;&nbsp;&nbsp;&nbsp; Economist & Data Scientist__
+__&nbsp;&nbsp;&nbsp;&nbsp; Economist & Data Scientist__<br>
 Email: rcalzaretta@berkeley.edu <br>
 
 ## Summary
