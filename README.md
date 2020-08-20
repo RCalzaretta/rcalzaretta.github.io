@@ -1,23 +1,17 @@
 # Robert "Bobby" Calzaretta Jr.
-rcalzaretta@ischool.berkeley.edu <br>
+rcalzaretta@berkeley.edu <br>
 
 ## Education
 Univeristy of California, Berkeley, CA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Masters in Information and Data Science<br>
+&nbsp;&nbsp;&nbsp;&nbsp;_Select Coursework:_ Statistics, Machine Learning at Scale, Natural Language Processing, Experiments & Causality, Research Design and Development
 
 Boston College, Chestnut Hill, MA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelors of Arts in Economics, _magna cum laude_<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelors of Arts in Political Science (with Honors), _magna cum laude_<br>
+&nbsp;&nbsp;&nbsp;&nbsp;_Select Coursework:_ Econometric Methods, Statistics, Economic Theory, Comparative Political Analysis
 <br>
-Graduate Coursework Completed:
-- Machine Learning at Scale
-- Natural Language Processing
-- Applied Machine Learning
-- Experiments and Causality
-- Python Fundamentals for Data Science
-- Research Design and Applications for Data and Analysis
-- Statistics for Data Science
-- Fundamentals of Data Engineering
+
 
 ## Professional Experience
 Compass Lexecon<br>
