@@ -1,10 +1,8 @@
-title: Bobby Calzaretta's 
-Resume and Project Portfolio
+title: Bobby Calzaretta's \ Resume and Project Portfolio
+
 author:
     name: Robert "Bobby" Calzaretta, Jr.
     email: rcalzaretta@berkeley.edu
-    linkedin: https://www.linkedin.com/in/robert-calzaretta-jr
-    github:  https://github.com/RCalzaretta/
 
 description: > 
     This page contains selected projects in data science and programing
@@ -12,3 +10,8 @@ description: >
 show_excerpts: false
 
 theme: jekyll-theme-cayman
+
+footer_links:
+    linkedin_username: https://www.linkedin.com/in/robert-calzaretta-jr
+    github:  https://github.com/RCalzaretta/
+
