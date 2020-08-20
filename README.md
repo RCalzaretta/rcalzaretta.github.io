@@ -11,12 +11,12 @@ During my graduate studies at UC Berkeley's [MIDS program](https://ischoolonline
 Univeristy of California, Berkeley, CA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Masters in Information and Data Science<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Select Coursework:_ Statistics, Machine Learning at Scale, Natural Language Processing, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Experiments & Causality, Research Design and Development
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experiments & Causality, Research Design and Development
 
 Boston College, Chestnut Hill, MA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelors of Arts in Economics, Political Science (with Honors), _magna cum laude_<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Select Coursework:_ Econometric Methods, Statistics, Economic Theory, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Comparative Political Analysis
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparative Political Analysis
 <br>
 
 ## Publications
