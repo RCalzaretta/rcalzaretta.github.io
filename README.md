@@ -8,12 +8,12 @@ I am an Economist at Compass Lexecon, a leading economic consulting firm.  In my
 During my graduate studies at UC Berkeley's [MIDS program](https://ischoolonline.berkeley.edu/data-science/), I focused on the application of natural language processing (NLP) for text classification and the application of neural networks for solving classification problems in audio data.  I also completed coursework in experimental design and developing data pipelines at scale.  Outside of my consulting work, my research interests include the application of NLP for detecting bias and improving educational outcomes through policy analysis.
 
 ## Education
-Univeristy of California, Berkeley, CA<br>
+__Univeristy of California, Berkeley, CA__<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Masters in Information and Data Science<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Select Coursework:_ Statistics, Machine Learning at Scale, Natural Language Processing, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experiments & Causality, Research Design and Development
 
-Boston College, Chestnut Hill, MA<br>
+__Boston College, Chestnut Hill, MA__<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Bachelors of Arts in Economics, Political Science (with Honors), _magna cum laude_<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Select Coursework:_ Econometric Methods, Statistics, Economic Theory, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparative Political Analysis
