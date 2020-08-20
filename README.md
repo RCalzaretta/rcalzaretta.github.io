@@ -1,5 +1,6 @@
 # Robert "Bobby" Calzaretta, Jr.
-rcalzaretta@berkeley.edu <br>
+## &nbsp;&nbsp;&nbsp;&nbsp; Economist & Data Scientist
+Email: rcalzaretta@berkeley.edu <br>
 
 ## Summary
 I am an Economist at Compass Lexecon, a leading economic consulting firm.  In my eight years at Compass Lexecon, I have consulted well over thirty clients across more than ten industries in litigation and regulatory proceedings with multi-billion dollar outcomes.  As an economist with expertise in data science, I have provided written and/or oral testimony before the U.S. Federal Communications Comission, the U.S. Department of Transportation, and the U.K. Competition and Markets Authority in matters pertaining to competition in the airline's industry and business data services in the telecommunications industry.  Over this time, I have developed and communicated results of complex analyses including regression models, DCF valuations, merger and regulatory analyses, and data processes to client stakeholders, their counsel, and the economic experts whom I support. I have over six years of experience managing teams of research and data analysts, as well as experience in leading training on software such as Stata, QGIS, and programming best practices.  
