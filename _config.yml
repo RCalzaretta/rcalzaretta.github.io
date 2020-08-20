@@ -9,9 +9,7 @@ description: >
 
 show_excerpts: false
 
-theme: jekyll-theme-cayman
-
 footer_links:
     linkedin_username: https://www.linkedin.com/in/robert-calzaretta-jr
-    github:  https://github.com/RCalzaretta/
 
+theme: jekyll-theme-cayman
