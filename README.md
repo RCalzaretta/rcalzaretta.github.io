@@ -7,8 +7,7 @@ Univeristy of California, Berkeley, CA<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Select Coursework:_ Statistics, Machine Learning at Scale, Natural Language Processing, Experiments & Causality, Research Design and Development
 
 Boston College, Chestnut Hill, MA<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Bachelors of Arts in Economics, _magna cum laude_<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Bachelors of Arts in Political Science (with Honors), _magna cum laude_<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Bachelors of Arts in Economics, Political Science (with Honors), _magna cum laude_<br>
 &nbsp;&nbsp;&nbsp;&nbsp;_Select Coursework:_ Econometric Methods, Statistics, Economic Theory, Comparative Political Analysis
 <br>
 
