@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-You can reach Bobby Calzaretta at [rcalzaretta@berkeley.edu](mailto: rcalzaretta@berkeley.edu) for any consulting opportunities.
+Send inquiries for consulting opportunities to Bobby at [bcalzaretta@compasslexecon.com](mailto: bcalzaretta@compasslexecon.com).
 
 [jekyll-organization]: https://github.com/jekyll

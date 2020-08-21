@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: single
 title: "CV"
-permalink: /
+permalink: 
 ---
 
 # Robert "Bobby" Calzaretta, Jr.
