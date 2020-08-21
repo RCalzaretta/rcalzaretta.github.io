@@ -2,12 +2,14 @@ title: Bobby Calzaretta's Resume and Project Portfolio
 categories: CATEGORY-1 CATEGORY-2
 
 author:
-    name: Robert "Bobby" Calzaretta, Jr.
-    email: rcalzaretta@berkeley.edu
+    name	: Robert "Bobby" Calzaretta, Jr.
+    bio		: "Data Science and Programming Portfolio"
+    location	: "Oakland, CA"
+    email	: "rcalzaretta@berkeley.edu"
+    github	: "rcalzaretta"
+    linkedin	: "robert-calzaretta-jr"
 
 description: This page contains selected projects in data science and programing
 
-footer_links:
-    linkedin_username: https://www.linkedin.com/in/robert-calzaretta-jr
 
 theme: jekyll-theme-cayman
