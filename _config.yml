@@ -21,11 +21,9 @@
 title: Bobby Calzaretta's Resume and Project Portfolio
 email: rcalzaretta@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This page contains selected projects in data science and programing
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: robert-calzaretta-jr
-github_username:  rcalzaretta
+  This site hosts selected projects in data science and programing
+linkedin_username: "robert-calzaretta-jr"
+github_username:  "rcalzaretta"
 
 # Build settings
 theme: jekyll-theme-cayman
