@@ -15,7 +15,7 @@ description: This page contains selected projects in data science and programing
 defaults:
     # _posts
     - scope:
-        path: ""
+        path: 
         type: posts
       values:
         layout: single
@@ -26,7 +26,7 @@ defaults:
         related: true
     # _pages
     - scope:
-      path: ""
+      path: 
       type: pages
     values: 
       layout: single
