@@ -25,7 +25,7 @@ __Boston College, Chestnut Hill, MA__<br>
 <br>
 
 ## Publications
-“Competitive Effects of International Airline Cooperation,” with Yair Eilat and Mark Israel, _Journal of Competition Law & Economics_, Volume 13, Issue 3, September 2017, Pages 501–548, https://doi.org/10.1093/joclec/nhx016
+“Competitive Effects of International Airline Cooperation,” with Yair Eilat and Mark Israel, _Journal of Competition Law & Economics_, Volume 13, Issue 3, September 2017, Pages 501–548, doi: [10.1093](https://doi.org/10.1093/joclec/nhx016)
 
 ## Professional Career
 [Compass Lexecon](https://www.compasslexecon.com/)<br>
