@@ -1,6 +1,7 @@
 ---
-layout: single
-title: "Resume"
+layout: page
+title: "About"
+permalink: /about/
 ---
 
 # Robert "Bobby" Calzaretta, Jr.
