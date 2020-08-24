@@ -1,7 +1,8 @@
 ---
 layout: single
-title: "CV"
-permalink: 
+title: "Home"
+descritpion: "Home Page"
+permalink: "/"
 ---
 
 # Robert "Bobby" Calzaretta, Jr.
