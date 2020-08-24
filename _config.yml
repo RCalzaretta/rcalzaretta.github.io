@@ -26,10 +26,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 linkedin_username: "robert-calzaretta-jr"
 github_username:  "rcalzaretta"
 
-defaults:
-- scope:
-    path: _docs
-    type: docs
+#defaults:
+#- scope:
+#    path: _docs
+#    type: docs
 
 
 # Build settings
